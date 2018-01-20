@@ -1,0 +1,26 @@
+body {
+	margin: 0 ;
+	padding: 0 ;
+	text-align: center;
+	background-color: #EBEBEB;
+}
+ul {
+	font-size: 70px;
+	display: inline-block;
+	font-family: sans-serif;
+	border: 2px solid black;
+	list-style: none;
+	padding: 5px;
+	margin: 10px;
+	text-align: center;
+}
+li {
+	font-size: 30px;
+}
+img {
+	width: 500px ;
+	height: 800px;
+}
+ul:hover {
+	background-color: #C1C0C0;
+}
